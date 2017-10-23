@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Todo List </string>
+
+    <string name="hint_title">Title</string>
+    <string name="hint_new_item">New item</string>
+    <string name="btn_add">Add</string>
+
+</resources>
